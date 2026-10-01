@@ -38,8 +38,7 @@
               "RelativeToolTip": "backend\\IskolaiEszkoz.API\\Controllers\\EszkozController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T12:12:35.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T12:12:35.13Z"
             },
             {
               "$type": "Document",
@@ -50,8 +49,7 @@
               "ToolTip": "C:\\Users\\kassaikv0227\\Desktop\\13\\fp\\B5E18\\backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj",
               "RelativeToolTip": "backend\\IskolaiEszkoz.API\\IskolaiEszkoz.API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-17T12:10:52.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T12:10:52.889Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,15 @@
               "RelativeToolTip": "backend\\IskolaiEszkoz.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T12:06:12.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T12:06:12.346Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
